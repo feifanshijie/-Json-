@@ -1,0 +1,56 @@
+未知错误类型:编号[2]include_once(../App/Status/html.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Status/html.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Status/html.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Status/html.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Status/html.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Status/html.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Status/html.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Status/html.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Status/html.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Status/html.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Status/html.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Status/html.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Status/html.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Status/html.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[8]Undefined index: status位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第26行
+未知错误类型:编号[8]Undefined index: param位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第27行
+未知错误类型:编号[2]include_once(../App/Status/.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Status/.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]Declaration of App\Action\IndexAction::test() should be compatible with Framework\Support\Action::test($view, $data)位置文件/Applications/MAMP/htdocs/FunnyPHP/App/Action/IndexAction.php,第11行
+未知错误类型:编号[2]include_once(../Doctrine/DBAL/Driver/PDOConnection.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../Doctrine/DBAL/Driver/PDOConnection.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]Declaration of App\Action\IndexAction::test() should be compatible with Framework\Support\Action::test($view, $data)位置文件/Applications/MAMP/htdocs/FunnyPHP/App/Action/IndexAction.php,第11行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(../App/Action/Example.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Action/Example.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第46行

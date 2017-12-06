@@ -1,0 +1,97 @@
+/*Button*/
+.gui-btn{
+    margin:5px;
+    display:block;
+    float:left;
+    vertical-align:middle;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+    -webkit-transition:all 0.3s;
+    -moz-transition:all 0.3s;
+    -ms-transition:all 0.3s;
+    -o-transition:all 0.3s;
+    transition:all 0.3s;
+}
+
+/*Button size*/
+.gui-btn-small{
+    font-size:1rem;
+    padding:5px 10px;
+}
+.gui-btn-medium{
+    font-size:1.1rem;
+    padding:10px 15px;
+}
+.gui-btn-large{
+    font-size:1.25rem;
+    padding:15px 20px;
+}
+
+/*Button color*/
+.gui-btn-worm{
+    border:solid 1px #F54545;
+    color:#FFF;
+    background-color:#F54545;
+}
+.gui-btn-worm:hover{
+    border:solid 1px #F54545;
+    color:#FFF;
+    background-color:#F56545;
+}
+
+.gui-btn-danger{
+    border:solid 1px #F01B2D;
+    color:#FFF;
+    background-color:#F01B2D;
+}
+.gui-btn-danger:hover{
+    border:solid 1px #F01B2D;
+    color:#FFF;
+    background-color:#F01B2D;
+}
+
+.gui-btn-primary{
+    border:solid 1px #026584;
+    color:#FFF;
+    background-color:#2A80B9;
+}
+.gui-btn-primary:hover{
+    border:solid 1px #2A80B9;
+    color:#FFF;
+    background-color:#026584;
+}
+
+.gui-btn-success{
+    border:solid 1px #01B169;
+    color:#FFF;
+    background-color:#01B169;
+}
+.gui-btn-success:hover{
+    border:solid 1px #01D169;
+    color:#FFF;
+    background-color:#01D169;
+}
+
+.gui-btn-warning{
+    border:solid 1px #FC7736;
+    color:#FFF;
+    background-color:#FC7736;
+}
+.gui-btn-warning:hover{
+    border:solid 1px #FC7736;
+    color:#FFF;
+    background-color:#FC7736;
+}
+
+.gui-btn-default{
+    border:solid 1px #DDD;
+    color:#000;
+    background-color:#DDD;
+}
+.gui-btn-default:hover{
+    border:solid 1px #DDD;
+    color:#000;
+    background-color:#DDD;
+}

@@ -1,0 +1,6 @@
+[2017-12-06 05-28-52]： Undefined index: debug /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:31
+[2017-12-06 05-28-53]： Undefined index: debug /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:31
+[2017-12-06 05-28-59]： Undefined index: debug /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:31
+[2017-12-06 05-29-10]： Undefined index: debug /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:31
+[2017-12-06 05-29-47]： Undefined index: debug /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:31
+[2017-12-06 05-40-34]： Undefined index: debug /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:31

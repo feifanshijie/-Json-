@@ -1,0 +1,20 @@
+CREATE TABLE `dm_project` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `category_trade_id` int(11) unsigned DEFAULT '0' COMMENT '行业分类',
+  `category_demand_id` int(11) unsigned DEFAULT '0' COMMENT '需求分类ID',
+  `name` varchar(255) DEFAULT '' COMMENT '项目名称',
+  `cover` varchar(255) DEFAULT '' COMMENT '图片',
+  `logo` varchar(255) DEFAULT '' COMMENT 'logo',
+  `industry` varchar(255) DEFAULT '' COMMENT '行业',
+  `start_time` int(11) unsigned DEFAULT '0' COMMENT '上线时间',
+  `phone` varchar(255) DEFAULT '' COMMENT '电话号',
+  `contact` varchar(255) DEFAULT '' COMMENT '联系人',
+  `industry_info` text COMMENT '工商信息',
+  `company_info` text COMMENT '企业资料',
+  `core_info` text COMMENT '核心优势',
+  `video` text COMMENT '路演视频',
+  `status` tinyint(3) unsigned DEFAULT '0' COMMENT '状态',
+  `create_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP COMMENT '创建时间',
+  `update_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '更新时间 ',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=24 DEFAULT CHARSET=utf8 COMMENT='路演项目';

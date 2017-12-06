@@ -1,0 +1,189 @@
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[8]Undefined offset: 0位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第82行
+未知错误类型:编号[2]include_once(../is_login.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../is_login.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../is_login.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../is_login.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../is_login.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../is_login.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../is_login.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../is_login.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../is_login.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../is_login.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../is_login.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../is_login.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]include_once(../is_login.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../is_login.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]Missing argument 1 for Framework\Application::run_action(), called in /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php on line 36 and defined位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第70行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[8]Undefined property: App\Status\LoginStatus::$result位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第64行
+未知错误类型:编号[8]Undefined property: App\Status\LoginStatus::$result位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第64行
+未知错误类型:编号[8]Undefined property: App\Status\LoginStatus::$result位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第64行
+未知错误类型:编号[8]Undefined property: App\Status\LoginStatus::$result位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第64行
+未知错误类型:编号[8]Undefined property: App\Status\LoginStatus::$result位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第64行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:28)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:28)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:28)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:28)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:28)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:28)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:28)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:28)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:28)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:28)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:28)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:28)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:28)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:86)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:86)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:86)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:86)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:86)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[2]Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php:86)位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/functions.php,第277行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第85行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第86行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第85行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第83行
+未知错误类型:编号[8]Array to string conversion位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第83行
+未知错误类型:编号[8]Undefined index: message位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第51行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../Framework/BaseInterface/StatusInterface.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../Framework/BaseInterface/StatusInterface.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[8]Undefined property: App\Status\LoginStatus::$result位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第61行
+未知错误类型:编号[8]Undefined property: App\Status\LoginStatus::$result位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第61行
+未知错误类型:编号[2]include_once(../index.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../index.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../index.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../index.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../index.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../index.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../index.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../index.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../index.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../index.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../index.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../index.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../index.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../index.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(../index.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../index.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[8]Undefined index: func位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第26行
+未知错误类型:编号[8]Undefined index: func位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第26行
+未知错误类型:编号[8]Undefined index: func位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第26行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[2]include_once(../App//IndexParam.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../App//IndexParam.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[2]include_once(../App//IndexParam.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../App//IndexParam.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[2]include_once(../App//IndexParam.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../App//IndexParam.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[2]include_once(../App//IndexParam.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../App//IndexParam.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[2]include_once(../App//IndexParam.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../App//IndexParam.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[2]include_once(../App//IndexParam.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../App//IndexParam.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[2]include_once(../App//IndexParam.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../App//IndexParam.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[8]Undefined index: params位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[8]Undefined index: param位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[8]Undefined index: param位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[8]Undefined index: param位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[8]Undefined index: param位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[8]Undefined index: param位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/Application.php,第25行
+未知错误类型:编号[2]include_once(../App/Param/IndexParam.php): failed to open stream: No such file or directory位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行
+未知错误类型:编号[2]include_once(): Failed opening '../App/Param/IndexParam.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php7.0.8/lib/php')位置文件/Applications/MAMP/htdocs/FunnyPHP/Framework/bootstrap.php,第42行

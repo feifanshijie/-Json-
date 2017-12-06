@@ -1,0 +1,24 @@
+*{margin:0;padding:0}
+li{list-style:none}
+a{text-decoration:none}
+.gui-main{
+    width:1280px;
+    height:auto;
+    overflow:hidden;
+}
+.gui-title{
+    width:100%;
+    text-align:center;
+}
+.gui-block{
+    width:700px;
+}
+.gui-color{
+    color:#ddd;
+}
+
+.gui-block-center{
+    margin:auto;
+}
+
+

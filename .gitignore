@@ -1,0 +1,9 @@
+.settings
+.buildpath
+.project
+.idea
+data/
+soa.phar
+*~
+.DS_Store
+data/console/log/run.logs

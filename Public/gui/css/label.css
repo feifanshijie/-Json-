@@ -1,0 +1,55 @@
+/*Label*/
+.gui-label{
+    margin:5px;
+    display:block;
+    float:left;
+    vertical-align:middle;
+}
+.gui-label-small{
+    padding:5px 10px;
+}
+.gui-label-medium{
+    padding:10px 15px;
+}
+.gui-label-large{
+    padding:15px 20px;
+}
+
+.gui-label-worm{
+    border:solid 1px #F54545;
+    color:#FFF;
+    background-color:#F54545;
+}
+
+.gui-label-danger{
+    border:solid 1px #F01B2D;
+    color:#FFF;
+    background-color:#F01B2D;
+}
+
+.gui-label-primary{
+    border:solid 1px #2A80B9;
+    color:#FFF;
+    background-color:#2A80B9;
+}
+
+.gui-label-success{
+    border:solid 1px #01B169;
+    color:#FFF;
+    background-color:#01B169;
+}
+
+.gui-label-warning{
+    border:solid 1px #FC7736;
+    color:#FFF;
+    background-color:#FC7736;
+}
+.gui-label-default{
+    border:solid 1px #DDD;
+    color:#000;
+    background-color:#DDD;
+}
+
+.gui-label-radius{
+    border-radius:8px;
+}
