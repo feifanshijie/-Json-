@@ -5,27 +5,24 @@
  * ------------------------------------------------------
  */
 namespace Framework;
+//TODO:加载框架全局函数
+require_once "helps.php";
+//require '../vendor/autoload.php';
 
-//header("Access-Control-Allow-Origin:*");
-//header('charset=utf-8');
 
 ini_set('date.timezone', 'Asia/Shanghai');
-//TODO:验证版本
-version_compare(PHP_VERSION, '7.0') < 0 && die('PHP版本小于7.0,请升级PHP版本');
 
-//define('ENVIRONMENT', gethostbyaddr($_SERVER['REMOTE_ADDR']));                          //TODO:获取当前环境
-define('ENVIRONMENT', 'localhost');                          //TODO:获取当前环境
+
+define('ENVIRONMENT', 'localhost');
 //TODO:加载系统应用的配置
 define('BASE_PATH', '../'.dirname(__FILE__));
 define('F', 'FactoryLib/');
-define('CONFIG_PATH', '../Config/'.ENVIRONMENT);
-define('CONFIG', parse_ini_file(CONFIG_PATH.'/app.ini',true));
-define('DATABASE', require_once CONFIG_PATH.'/db.php');
-define('WEB', require_once CONFIG_PATH.'/web.php');
-define('ROUTE', require_once CONFIG_PATH.'/router.php');
-
-//TODO:加载框架全局函数
-require_once "helps.php";
+define('ENV_PATH', '../Config/');
+define('ENV_CONFIG_PATH', '../Config/'.ENVIRONMENT);
+define('CONFIG', parse_ini_file(ENV_CONFIG_PATH.'/app.ini',true));
+define('DATABASE', require_once ENV_CONFIG_PATH.'/db.php');
+define('WEB', require_once ENV_CONFIG_PATH.'/web.php');
+define('ROUTE', require_once ENV_CONFIG_PATH.'/router.php');
 
 //TODO:是否开启DEBUG
 if(CONFIG['debug'])
@@ -45,8 +42,6 @@ spl_autoload_register(function ($class) {
     include_once "{$file_path}";
 });
 
-require '../vendor/autoload.php';
-//TODO:异常错误捕获
 set_error_handler(function ($error_no, $error_info, $error_file, $error_line){
     $log_file = '../Storage/log/error/'.date('Ymd').'.log';
     $template = '';
@@ -71,16 +66,13 @@ set_error_handler(function ($error_no, $error_info, $error_file, $error_line){
     file_put_contents($log_file, $template, FILE_APPEND);
 });
 
-//TODO:获取请求路由
 $rout = str_replace('?'.$_SERVER['QUERY_STRING'],'',$_SERVER['REQUEST_URI']);
 
-//TODO:是否记录请求路由日志
 //CONFIG['accessLog'] && file_put_contents('../log/access/'.date('Ymd').'.log', 'Time:'. date('Y-m-d H:i:s',$_SERVER['REQUEST_TIME'])." IP:{$_SERVER['REMOTE_ADDR']} Route:{$rout}\n", FILE_APPEND);
-
-//TODO:执行
 
 if(!empty(ROUTE[$rout]))
 {
+
     $app = new Application($rout);
     echo $app->run();
 

@@ -1,6 +1,31 @@
-[2017-12-06 05-28-52]： Undefined index: debug /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:31
-[2017-12-06 05-28-53]： Undefined index: debug /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:31
-[2017-12-06 05-28-59]： Undefined index: debug /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:31
-[2017-12-06 05-29-10]： Undefined index: debug /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:31
-[2017-12-06 05-29-47]： Undefined index: debug /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:31
-[2017-12-06 05-40-34]： Undefined index: debug /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:31
+[2017-12-12 11-07-16]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 11-07-16]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 02-40-38]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 04-37-25]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 04-37-26]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 04-37-37]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 04-37-38]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 04-37-38]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 04-37-39]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-25-03]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-25-04]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-25-16]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-27-27]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-27-35]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-27-47]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-27-53]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-27-53]： Array to string conversion /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:323
+[2017-12-12 05-27-53]： Undefined index: env /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:323
+[2017-12-12 05-28-02]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-28-17]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-28-27]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-28-36]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-28-46]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-28-46]： Array to string conversion /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:323
+[2017-12-12 05-28-55]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-30-08]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-30-29]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-30-30]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-30-30]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-30-30]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-12 05-33-18]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22

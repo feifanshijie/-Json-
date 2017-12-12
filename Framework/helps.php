@@ -299,14 +299,48 @@ if(!function_exists('FW_ITERATOR'))
 
 /**
  * TODO:读取配置
- * @param  mixed $config_name
- * @return
+ * @param string $config_file_name
+ * @param string $config_param_name
+ * @return mixed
  */
-if(!function_exists('FW_CONFIG'))
+if(!function_exists('env'))
 {
-    function FW_CONFIG($config_name)
+    function env(string $config_param = null)
     {
-        return parse_ini_file(CONFIG_PATH."/{$config_name}.ini",true);
+        $config = explode('.', $config_param);
+
+        $config_file_path = ENV_PATH."env.ini";
+        $config_file_content = parse_ini_file($config_file_path,true);
+
+        if(empty($config_param))
+        {
+            return $config_file_content;
+        }
+
+        $result = '';
+        foreach ($config as $k => $v)
+        {
+            if(0 == $k && isset($config_file_content[$v]))
+            {
+                $result = $config_file_content[$v];
+            }
+            else if(isset($result[$v]))
+            {
+                $result = $result[$v];
+            }
+        }
+
+        return $result;
+    }
+}
+
+if(!function_exists('dd'))
+{
+    function dd($param)
+    {
+        echo '<pre>';
+        var_dump($param);
+        echo '</pre>';
     }
 }
 
