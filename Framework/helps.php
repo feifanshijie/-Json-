@@ -309,9 +309,8 @@ if(!function_exists('env'))
     {
         $config = explode('.', $config_param);
 
-        $config_file_path = ENV_PATH."env.ini";
+        $config_file_path = ENV_CONFIG_PATH."env.ini";
         $config_file_content = parse_ini_file($config_file_path,true);
-
         if(empty($config_param))
         {
             return $config_file_content;
@@ -338,9 +337,9 @@ if(!function_exists('dd'))
 {
     function dd($param)
     {
-        echo '<pre>';
+        echo '<style>*{margin:0}</style><pre><div style="color:rgba(57,195,64,1);background-color:rgba(35,37,37,1)">';
         var_dump($param);
-        echo '</pre>';
+        echo '</pre></div>';
     }
 }
 

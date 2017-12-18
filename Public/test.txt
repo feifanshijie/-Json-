@@ -29,3 +29,211 @@
 [2017-12-12 05-30-30]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
 [2017-12-12 05-30-30]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
 [2017-12-12 05-33-18]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-14 05-44-27]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-14 05-44-27]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-14 05-44-39]： parse_ini_file(../Config/localhost/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:22
+[2017-12-18 11-20-43]： require_once(/Applications/MAMP/htdocs/wind/-Json-/Public): failed to open stream: Invalid argument /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:13
+[2017-12-18 11-20-43]： require_once(/Applications/MAMP/htdocs/wind/-Json-/Public): failed to open stream: Undefined error: 0 /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:13
+[2017-12-18 11-21-02]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-21-02]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-21-44]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-21-44]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-21-58]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-21-58]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-22-01]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-22-01]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-22-23]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-22-23]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-03]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-03]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-04]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-04]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-35]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-35]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-36]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-36]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-37]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-37]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-40]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-40]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-56]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-23-56]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-24-06]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-24-06]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-24-11]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-24-11]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-25-16]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 11-25-16]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-10-50]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-10-50]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-10-56]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-10-56]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-05]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-05]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-06]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-06]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-06]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-06]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-10]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-10]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-26]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-26]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-29]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-29]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-34]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-34]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-37]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-37]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-43]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-43]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-44]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-44]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-44]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-44]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-44]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-44]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-44]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-44]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-53]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-53]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-54]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-54]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-54]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-54]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-54]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-54]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-54]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-54]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-55]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-55]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-55]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-55]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-55]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-55]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-55]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-12-55]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-13-01]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-13-01]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-13-51]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-13-51]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-14-10]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-14-10]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-14-11]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-14-11]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-14-47]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-14-47]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-19]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-19]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-48]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-48]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-54]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-54]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-55]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-55]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-55]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-55]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-55]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-55]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-55]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-18-55]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-07]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-07]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-13]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-13]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-13]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-13]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-14]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-14]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-15]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-15]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-16]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-16]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-16]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-16]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-22]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-22]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-25]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-25]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-30]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-30]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-34]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-34]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-54]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-54]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-55]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-19-55]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-20-01]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-20-01]： parse_ini_file(ENV_CONFIG_PATH/app.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-20-52]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-20-52]： parse_ini_file(ENV_CONFIG_PATH/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-20-52]： parse_ini_file(/Applications/MAMP/htdocs/wind/-Json-/Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-20-59]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-20-59]： parse_ini_file(ENV_CONFIG_PATH/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-20-59]： parse_ini_file(/Applications/MAMP/htdocs/wind/-Json-/Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-20-59]： parse_ini_file(/Applications/MAMP/htdocs/wind/-Json-/Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-22-42]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-22-42]： parse_ini_file(ENV_CONFIG_PATH/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-22-42]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-22-42]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-22-43]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-22-43]： parse_ini_file(ENV_CONFIG_PATH/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-22-43]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-22-43]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-22-43]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-22-43]： parse_ini_file(ENV_CONFIG_PATH/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-22-43]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-22-43]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-22-50]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-22-50]： parse_ini_file(ENV_CONFIG_PATH/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-22-50]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-22-50]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-23-04]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-23-04]： parse_ini_file(ENV_CONFIG_PATH/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-23-04]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-23-05]： Use of undefined constant ENV_CONFIG_PATH - assumed 'ENV_CONFIG_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-23-05]： parse_ini_file(ENV_CONFIG_PATH/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/bootstrap.php line:16
+[2017-12-18 05-23-05]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-23-43]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-23-57]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-23-57]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-24-12]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-24-18]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-24-18]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-24-22]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-24-22]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-24-26]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-24-27]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-24-27]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-24-42]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-24-42]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-24-43]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-25-01]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-25-05]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-25-12]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-25-41]： parse_ini_file(/Applications/MAMP/htdocs/wind/-Json-/Config/localhost): failed to open stream: Undefined error: 0 /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-25-46]： parse_ini_file(/Applications/MAMP/htdocs/wind/-Json-/Config/localhost): failed to open stream: Undefined error: 0 /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-26-14]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-26-38]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-26-43]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-27-13]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-27-20]： parse_ini_file(../Config/env.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-27-39]： Array to string conversion /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:314
+[2017-12-18 05-28-41]： parse_ini_file(localhostenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-30-00]： Illegal offset type in isset or empty /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:323
+[2017-12-18 05-30-00]： Illegal offset type in isset or empty /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:323
+[2017-12-18 05-30-00]： Illegal offset type in isset or empty /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:323
+[2017-12-18 05-30-00]： Illegal offset type in isset or empty /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:323
+[2017-12-18 05-30-24]： Use of undefined constant ENV_PATH_PATH - assumed 'ENV_PATH_PATH' /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:312
+[2017-12-18 05-30-24]： parse_ini_file(ENV_PATH_PATHenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-30-34]： parse_ini_file(../Config/localhostenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-31-01]： parse_ini_file(../Config/localhostenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-31-02]： parse_ini_file(../Config/localhostenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-31-02]： parse_ini_file(../Config/localhostenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-31-02]： parse_ini_file(../Config/localhostenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-31-02]： parse_ini_file(../Config/localhostenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-31-13]： parse_ini_file(../Config/localhostenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-31-14]： parse_ini_file(../Config/localhostenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-31-14]： parse_ini_file(../Config/localhostenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-31-14]： parse_ini_file(../Config/localhostenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-31-14]： parse_ini_file(../Config/localhostenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313
+[2017-12-18 05-34-42]： parse_ini_file(../Config/localhostenv.ini): failed to open stream: No such file or directory /Applications/MAMP/htdocs/wind/-Json-/Framework/helps.php line:313

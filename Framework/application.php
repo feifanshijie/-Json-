@@ -13,21 +13,23 @@ class Application
     private $action = null;
     private $_capsule = null;
 
-    //TODO:初始化参数
+    /**
+     * 初始化参数
+     */
     public function __construct($path)
     {
         $this->action = '\\App\\'.WEB['action'].'\\'.ROUTE[$path]['action'];
     }
 
     /**
-     * Run application
+     * 运行应用
      */
     public function run()
     {
         if($this->_capsule == null)
         {
-            $capsule = new Capsule;
-            $capsule->addConnection(DATABASE['blog']);
+            $capsule = new Capsule();
+            $capsule->addConnection(DB['blog']);
             $capsule->setEventDispatcher(new Dispatcher(new Container));
             $capsule->setAsGlobal();
             $capsule->bootEloquent();
@@ -37,7 +39,7 @@ class Application
         {
             $capsule = $this->_capsule;
         }
-
+        exit;
         $class    = FW_STR($this->action, true);
         $function = FW_STR($this->action, false);
 

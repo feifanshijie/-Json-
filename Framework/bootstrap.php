@@ -5,27 +5,40 @@
  * ------------------------------------------------------
  */
 namespace Framework;
-//TODO:加载框架全局函数
-require_once "helps.php";
 //require '../vendor/autoload.php';
-
-
 ini_set('date.timezone', 'Asia/Shanghai');
 
-
+/**
+ * 本机环境
+ */
 define('ENVIRONMENT', 'localhost');
-//TODO:加载系统应用的配置
+
+/**
+ * 加载系统路径
+ */
 define('BASE_PATH', '../'.dirname(__FILE__));
-define('F', 'FactoryLib/');
+define('FACTORY', 'FactoryLib/');
 define('ENV_PATH', '../Config/');
-define('ENV_CONFIG_PATH', '../Config/'.ENVIRONMENT);
-define('CONFIG', parse_ini_file(ENV_CONFIG_PATH.'/app.ini',true));
-define('DATABASE', require_once ENV_CONFIG_PATH.'/db.php');
+define('ENV_CONFIG_PATH', '../Config/'.ENVIRONMENT.'/');
+define('CONFIG', parse_ini_file(ENV_CONFIG_PATH.'/env.ini',true));
+
+/**
+ * 加载框架全局函数
+ */
+require_once "helps.php";
+
+
+/**
+ * 加载应用系统的配置
+ */
+define('DB', require_once ENV_CONFIG_PATH.'/db.php');
 define('WEB', require_once ENV_CONFIG_PATH.'/web.php');
 define('ROUTE', require_once ENV_CONFIG_PATH.'/router.php');
 
-//TODO:是否开启DEBUG
-if(CONFIG['debug'])
+/**
+ * 是否开启DEBUG
+ */
+if(true == env('app'))
 {
     error_reporting(E_ALL);
     ini_set('display_errors','On');
@@ -36,12 +49,16 @@ else
     ini_set('display_errors','Off');
 }
 
-//TODO:自动加载
+/**
+ * 自动加载
+ */
 spl_autoload_register(function ($class) {
     $file_path = str_replace("\\",'/', '../'.$class . '.php');
     include_once "{$file_path}";
 });
-
+/**
+ * 自定义错误处理
+ */
 set_error_handler(function ($error_no, $error_info, $error_file, $error_line){
     $log_file = '../Storage/log/error/'.date('Ymd').'.log';
     $template = '';
@@ -72,11 +89,9 @@ $rout = str_replace('?'.$_SERVER['QUERY_STRING'],'',$_SERVER['REQUEST_URI']);
 
 if(!empty(ROUTE[$rout]))
 {
-
     $app = new Application($rout);
     echo $app->run();
-
     FW_NOTICE(405, 'Method not allow');
 }
 
-//FW_NOTICE(404, 'Not Found');
+FW_NOTICE(404, 'Not Found');

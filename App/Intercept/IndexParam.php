@@ -2,6 +2,7 @@
 /**
  * Class IndexParam
  */
+
 namespace App\Param\Blog;
 
 use Framework\Support\Param;
