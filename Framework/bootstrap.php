@@ -56,6 +56,9 @@ spl_autoload_register(function ($class) {
     $file_path = str_replace("\\",'/', '../'.$class . '.php');
     include_once "{$file_path}";
 });
+
+require '../vendor/autoload.php';
+
 /**
  * 自定义错误处理
  */
@@ -83,12 +86,14 @@ set_error_handler(function ($error_no, $error_info, $error_file, $error_line){
     file_put_contents($log_file, $template, FILE_APPEND);
 });
 
-$rout = str_replace('?'.$_SERVER['QUERY_STRING'],'',$_SERVER['REQUEST_URI']);
+$rout = ltrim(str_replace('?'.$_SERVER['QUERY_STRING'],'',$_SERVER['REQUEST_URI']),"/");
 
 //CONFIG['accessLog'] && file_put_contents('../log/access/'.date('Ymd').'.log', 'Time:'. date('Y-m-d H:i:s',$_SERVER['REQUEST_TIME'])." IP:{$_SERVER['REMOTE_ADDR']} Route:{$rout}\n", FILE_APPEND);
 
 if(!empty(ROUTE[$rout]))
 {
+    header("X-Powered-By:Funny");
+    header("Token:xmldest");
     $app = new Application($rout);
     echo $app->run();
     FW_NOTICE(405, 'Method not allow');

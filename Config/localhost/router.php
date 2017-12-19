@@ -1,56 +1,18 @@
 <?php
-/**
- * ============================================================
- * TODO   : 路由器 [Routing 2017/02/23  V0.1]
- * ============================================================
- */
+/*
+|--------------------------------------------------------------------------
+| TODO:路由器 v1.0.0
+|--------------------------------------------------------------------------
+*/
 return
 [
-    //TODO:文档首页
-    '/'=>
-    [
-        'method' => 'GET',
-        'action' => 'PC\\IndexAction@viewIndex',
-    ],
-
-    'index'=>
-    [
-        'method' => 'GET',
-        'action' => 'PC\\IndexAction@viewIndex',
-    ],
-
-    //TODO:文档内容
-    '/main'=>
-    [
-        'method' => 'GET',
-        'action' => 'PC\\IndexAction@viewIndex',
-    ],
-    //TODO:前端登录
-    '/login'=>
-    [
-        'method' => 'GET',
-        'action' => 'PC\\IndexAction@index_article',
-    ],
-    //TODO:前端注册
-    '/register'=>
-    [
-        'method' => 'GET',
-        'action' => 'PC\\IndexAction@index_recommend',
-    ],
-    //TODO:个人中心
-    '/home'=>
-    [
-        'method' => 'GET',
-        'status' => '',
-        'param'  => '',
-        'action' => 'PC\\IndexAction@xmlTest',
-    ],
-    //TODO:
-    'json'=>
-    [
-        'method' => 'GET',
-        'status' => 'is_login',
-        'param'  => 'Example@index',
-        'action' => 'Example@Action',
-    ]
+    //TODO:文档
+    ''         => ['method' => 'GET', 'action' => 'IndexAction@index'],
+    'xml'      => ['method' => 'GET', 'action' => 'IndexAction@xmlTest'],
+    'json'     => ['method' => 'GET', 'action' => 'IndexAction@jsonTest'],
+    'view'     => ['method' => 'GET', 'action' => 'IndexAction@viewTest'],
+    'main'     => ['method' => 'GET', 'action' => 'IndexAction@viewIndex'],
+    'login'    => ['method' => 'GET', 'action' => 'IndexAction@index_article'],
+    'register' => ['method' => 'GET', 'action' => 'IndexAction@index_recommend'],
+    'home'     => ['method' => 'GET', 'action' => 'IndexAction@xmlTest'],
 ];

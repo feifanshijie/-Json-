@@ -158,7 +158,7 @@ abstract class Base
      * TODO:输出XML
      * @param  array $data
      * @param  int   $http_code
-     * @return void
+     * @return mixed
      */
     final public static function xml(array $data = [], int $http_code = 200)
     {
@@ -182,7 +182,7 @@ abstract class Base
             return $xml;
         }
 
-        die(arrayToXml($data));
+        return arrayToXml($data);
     }
 
 //    /**

@@ -64,6 +64,10 @@ class ComposerStaticInit910bd4ab3296ad398a501fc0106f9b10
         array (
             'Faker\\' => 6,
         ),
+        'D' => 
+        array (
+            'Doctrine\\Common\\Inflector\\' => 26,
+        ),
         'C' => 
         array (
             'Carbon\\' => 7,
@@ -175,6 +179,10 @@ class ComposerStaticInit910bd4ab3296ad398a501fc0106f9b10
         array (
             0 => __DIR__ . '/..' . '/fzaninotto/faker/src/Faker',
         ),
+        'Doctrine\\Common\\Inflector\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/doctrine/inflector/lib/Doctrine/Common/Inflector',
+        ),
         'Carbon\\' => 
         array (
             0 => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon',
@@ -199,13 +207,6 @@ class ComposerStaticInit910bd4ab3296ad398a501fc0106f9b10
             'Maatwebsite\\Excel\\' => 
             array (
                 0 => __DIR__ . '/..' . '/maatwebsite/excel/src',
-            ),
-        ),
-        'D' => 
-        array (
-            'Doctrine\\Common\\Inflector\\' => 
-            array (
-                0 => __DIR__ . '/..' . '/doctrine/inflector/lib',
             ),
         ),
     );

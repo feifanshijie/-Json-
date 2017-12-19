@@ -57,9 +57,9 @@ class IndexAction extends Action
     }
 
     //TODO:return json
-    public function xmlTest()
+    public function xmlTest() : array
     {
-        self::json(['code' => 222, 'msg' => 'ok']);
+        self::json(['code' => 222, 'msg' => '1ok']);
     }
 
     //TODO:return html

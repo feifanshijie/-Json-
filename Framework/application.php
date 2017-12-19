@@ -12,12 +12,14 @@ class Application
 {
     private $action = null;
     private $_capsule = null;
+    private $start_time = 0;
 
     /**
      * 初始化参数
      */
     public function __construct($path)
     {
+        $this->start_time = microtime(true);
         $this->action = '\\App\\'.WEB['action'].'\\'.ROUTE[$path]['action'];
     }
 
@@ -39,7 +41,7 @@ class Application
         {
             $capsule = $this->_capsule;
         }
-        exit;
+
         $class    = FW_STR($this->action, true);
         $function = FW_STR($this->action, false);
 
@@ -54,6 +56,10 @@ class Application
      */
     public function __destruct()
     {
-        echo '生命周期结束';
+        if(1==1)
+        {
+//            echo '生命周期结束';
+        }
+//        echo (microtime(true) - $this->start_time)*1000;
     }
 }

@@ -5,6 +5,8 @@
 namespace App\Action;
 
 use App\Model\Album;
+use App\Model\Member;
+use Framework\Drive\Factory;
 use Framework\Support\Action;
 use Illuminate\Support\Facades\DB;
 
@@ -14,59 +16,40 @@ class IndexAction extends Action
     //TODO:return xml
     public function index()
     {
-//        //TODO:工厂创建对象
-////        Factory::create('Hello')->test();
+        //TODO:工厂创建对象
+//        Factory::create('Hello')->test();
 //        Factory::show();
 //        Factory::create('Hello');
-//        //断掉迭代调试
-////        fw_iterator(C['name']);
+//        //迭代调试
+//        fw_iterator(C['name']);
 //        $arr = ['code' => 200, 'msg' => 'ok'];
 //        fw_http_param();
 //        fw_iterator($arr);
 
-//        $res = Member::content()->Join('')->Join('');
-
-//        $res = Member::content()
-//            ->select('id,name,time')
-//            ->where(['id' => 1,'name' => 'xiaoxming']);
-
-//            ->order('id', 'DESC')
-//            ->group('name')
-//            ->show_sql();
-//        $res = Member::content()->select()->where()->order();\
-
-//        $results = Manager::select('select * from test where id = ?', array(1));
+        $data['list'] = Member::query()->find([1, 2, 3]);
         $data['title'] = '测试';
         $data['test'] = 'hello world';
 
-        return $this->view('admin/index2', $data);
-//        $results = Member::find([1, 2, 3]);;
-//        var_dump($results);
-
-//        var_dump(CONFIG('app')['name']);exit;
-        //读取配置文件
-//        echo CONFIG('app')['name'];
-
-//        $this->xml(['code' => 400, 'msg' => 'NO'], 405);
+        return $this->view('test', $data);
     }
 
     //TODO:return json
-    public function xmlTest()
+    public function xmlTest() : string
     {
-        self::json(['code' => 222, 'msg' => 'ok']);
+        return self::xml(['code' => 222, 'msg' => 'ok']);
     }
 
     //TODO:return html
-    public function test2()
+    public function jsonTest() : string
     {
-        parent::json(['code' => 222, 'msg' => 'ok']);
+        return parent::json(['code' => 222, 'msg' => 'ok']);
     }
 
-    public function test3()
+    public function viewTest()
     {
-        $data = Album::all();
+        $data['title'] = '哈哈';
 
-//        return ['code' => 200, 'msg' => 'ok', 'data' => $data];
+        return parent::view('test',$data);
     }
 
 }
