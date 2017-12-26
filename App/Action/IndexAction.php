@@ -17,7 +17,7 @@ class IndexAction extends Action
     public function index()
     {
         //TODO:工厂创建对象
-//        Factory::create('Hello')->test();
+        Factory::create('Hello')->test();
 //        Factory::show();
 //        Factory::create('Hello');
 //        //迭代调试

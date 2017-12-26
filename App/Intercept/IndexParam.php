@@ -1,6 +1,6 @@
 <?php
 /**
- * Class IndexParam
+ * 参数过滤器
  */
 
 namespace App\Param\Blog;
