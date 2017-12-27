@@ -26,7 +26,15 @@ class ExampleAction extends Action
      */
     public function custom_class()
     {
-
+        //TODO:工厂创建对象
+//        Factory::create('Hello')->test();
+//        Factory::show();
+//        Factory::create('Hello');
+//        //迭代调试
+//        fw_iterator(C['name']);
+//        $arr = ['code' => 200, 'msg' => 'ok'];
+//        fw_http_param();
+//        fw_iterator($arr);
     }
 
     public function html()
