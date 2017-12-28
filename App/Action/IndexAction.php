@@ -13,7 +13,7 @@ class IndexAction extends Action
     public function index()
     {
         $data['list'] = Member::query()->find([1, 2, 3]);
-        $data['title'] = '测试';
+        $data['title'] = '文档';
         $data['test'] = 'hello world';
 
         return $this->view('test', $data);
