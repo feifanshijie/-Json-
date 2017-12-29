@@ -13,14 +13,18 @@ class Application
     private $action = null;
     private $_capsule = null;
     private $start_time = 0;
+    private $method = null;
 
     /**
      * 初始化参数
      */
-    public function __construct($path)
+    public function __construct(string $config = '')
     {
         $this->start_time = microtime(true);
-        $this->action = '\\App\\'.WEB['action'].'\\'.ROUTE[$path]['action'];
+        $config = explode('|', $config);
+
+        $this->action = '\\App\\'.WEB['action'].'\\'.$config[1];
+        $this->method = $config[2];
     }
 
     /**
@@ -37,13 +41,9 @@ class Application
             $capsule->bootEloquent();
             $this->_capsule = $capsule;
         }
-        else
-        {
-            $capsule = $this->_capsule;
-        }
 
-        $class    = FW_STR($this->action, true);
-        $function = FW_STR($this->action, false);
+        $class    = $this->action;
+        $function = $this->method;
 
         $action = new $class();
         return $action->$function();

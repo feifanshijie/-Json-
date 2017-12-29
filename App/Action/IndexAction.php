@@ -1,7 +1,14 @@
 <?php
-/**
- * 文档首页
- */
+
+/*
+|--------------------------------------------------------------------------
+| TODO:首页
+|--------------------------------------------------------------------------
+| @main      return view
+| @explain   return view
+|--------------------------------------------------------------------------
+*/
+
 namespace App\Action;
 
 use App\Model\Member;
@@ -9,33 +16,17 @@ use Framework\Support\Action;
 
 class IndexAction extends Action
 {
-    //TODO:return view
-    public function index()
+    public function main() : string
     {
         $data['list'] = Member::query()->find([1, 2, 3]);
         $data['title'] = '文档';
-        $data['test'] = 'hello world';
-
-        return $this->view('test', $data);
+        return parent::view('test', $data);
     }
 
-    //TODO:return json
-    public function xmlTest() : string
+    public function explain()
     {
-        return self::xml(['code' => 222, 'msg' => 'ok']);
+        $data['detail'] = [];
+        $data['title'] = '';
+        return parent::view('explain', $data);
     }
-
-    //TODO:return html
-    public function jsonTest() : string
-    {
-        return parent::json(['code' => 222, 'msg' => 'ok']);
-    }
-
-    public function viewTest()
-    {
-        $data['title'] = '哈哈';
-
-        return parent::view('test',$data);
-    }
-
 }

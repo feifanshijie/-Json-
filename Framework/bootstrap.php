@@ -1,9 +1,11 @@
 <?php
-/**
- * ------------------------------------------------------
- * Bootstrap
- * ------------------------------------------------------
- */
+
+/*
+|--------------------------------------------------------------------------
+| TODO:Bootstrap v1.0.0
+|--------------------------------------------------------------------------
+*/
+
 namespace Framework;
 //require '../vendor/autoload.php';
 ini_set('date.timezone', 'Asia/Shanghai');
@@ -94,7 +96,7 @@ if(!empty(ROUTE[$rout]))
 {
     header("X-Powered-By:Funny");
     header("Token:xmldest");
-    $app = new Application($rout);
+    $app = new Application(ROUTE[$rout]);
     echo $app->run();
     FW_NOTICE(405, 'Method not allow');
 }
