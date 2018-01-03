@@ -9,8 +9,6 @@ use Framework\Support\Action;
 
 class MainAction extends Action
 {
-
-
     //TODO:return json
     public function xmlTest() : string
     {

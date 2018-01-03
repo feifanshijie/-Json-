@@ -10,35 +10,34 @@
  * TODO-json:    返回JSON
  * ==================================================================
  */
+
+/*
+|--------------------------------------------------------------------------
+| TODO:基础控制器类 (如需修改继承此类)
+|--------------------------------------------------------------------------
+| @model     return result
+| @view      return view
+| @rd        return
+|--------------------------------------------------------------------------
+*/
+
 namespace Framework\Support;
 
+use Framework\BaseInterface\ReturnInterFace;
+use Framework\Help\RedisHelp;
 
-use duncan3dc\Laravel\BladeInstance;
-
-abstract class Action extends Base
+abstract class Action extends Base implements ReturnInterFace
 {
     public function model(string $model, string $method)
     {
         return $model::$method();
     }
 
-    public function view($view, $data)
-    {
-        $path = '../App/Front/view';
-        $cache = '../App/Front/cache';
-        $blade = new BladeInstance($path, $cache);
-
-        return $blade->render($view, $data);
-    }
-
     /**
-     * ==============================================================================
      * TODO:判断缓存是否存在
-     * ==============================================================================
      * @param string $k
      * @param string $type 缓存类型
      * @return mixed
-     * ==============================================================================
      */
     public function get_cache(string $k = '', string $type = 'redis')
     {
@@ -49,15 +48,12 @@ abstract class Action extends Base
     }
 
     /**
-     * ==============================================================================
      * TODO:判断缓存是否存在
-     * ==============================================================================
      * @param string $k
      * @param string $v
      * @param int $t
      * @param string $type 缓存类型
      * @return mixed
-     * ==============================================================================
      */
     public function set_cache($k,$v = '',int $t = 100 ,string $type = 'redis')
     {
@@ -72,7 +68,7 @@ abstract class Action extends Base
      * @param string $url  跳转地址
      * @param int    $time 秒
      */
-    public function redirect(string $url, integer $time)
+    public function rd(string $url, integer $time)
     {
         header("Location:{$url}");
     }
@@ -87,7 +83,6 @@ abstract class Action extends Base
 
         $return['code'] = $code;
         $return['msg'] = $msg;
-
         return $return;
     }
 

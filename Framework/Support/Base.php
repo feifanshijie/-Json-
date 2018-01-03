@@ -1,11 +1,17 @@
 <?php
-/**
- * =======================================================
- * TODO: FunnyPHP base class Date: 2017-02-08 V0.1 By Gym
- * 暂时弃用
- * =======================================================
- */
+
+/*
+|--------------------------------------------------------------------------
+| TODO:Base
+|--------------------------------------------------------------------------
+| @main      return view
+| @explain   return view
+|--------------------------------------------------------------------------
+*/
+
 namespace Framework\Support;
+
+use duncan3dc\Laravel\BladeInstance;
 
 abstract class Base
 {
@@ -14,9 +20,9 @@ abstract class Base
     private $_header;
 
     /**
-     * ==================================================
-     * Base constructor.
-     * --------------------------------------------------
+     * --------------------------------------------------------------------------
+     * 初始化
+     * --------------------------------------------------------------------------
      */
     public function __construct()
     {
@@ -39,7 +45,7 @@ abstract class Base
      */
     final public function Header($code)
     {
-        return [
+        $header_list = [
             '200' =>'HTTP/1.1 200 OK',                                        // ok 正常访问
             '404' =>'HTTP/1.1 404 Not Found',                                 //通知浏览器 页面不存在
             '301' =>'HTTP/1.1 301 Moved Permanently',                         //设置地址被永久的重定向 301
@@ -87,6 +93,8 @@ abstract class Base
             '' =>'Cache-Control: must-revalidate',
             '' =>'Pragma: public',
         ];
+
+        return $header_list[$code];
     }
     final public function setHeaderCode($code)
     {
@@ -141,13 +149,20 @@ abstract class Base
         return $code_list[$code];
     }
 
+    final public function view($view, $data)
+    {
+        $path = '../App/Front/view';
+        $cache = '../App/Front/cache';
+        return (new BladeInstance($path, $cache))->render($view, $data);
+    }
+
     /**
      * TODO:输出JSON
      * @param  array $data
      * @param  int   $http_code
-     * @return json
+     * @return string
      */
-    final public static function json(array $data = [], int $http_code = 200)
+    final public static function json(array $data = [], int $http_code = 200) : string
     {
         header("Content-type: application/json", true, $http_code);
         header('HTTP/1.1 ' . $http_code . self::setHeaderCode($http_code));
@@ -160,7 +175,7 @@ abstract class Base
      * @param  int   $http_code
      * @return mixed
      */
-    final public static function xml(array $data = [], int $http_code = 200)
+    final public static function xml(array $data = [], int $http_code = 200) : string
     {
         header("Content-type: text/xml", true, $http_code);
 
@@ -196,6 +211,4 @@ abstract class Base
 //        header("Content-type:text/html;");
 //        require $view_name.'.php';
 //    }
-
-
 }

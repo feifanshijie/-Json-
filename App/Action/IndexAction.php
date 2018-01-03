@@ -23,10 +23,10 @@ class IndexAction extends Action
         return parent::view('test', $data);
     }
 
-    public function explain()
+    public function explain() : string
     {
         $data['detail'] = [];
-        $data['title'] = '';
+        $data['title'] = '说明';
         return parent::view('explain', $data);
     }
 }
