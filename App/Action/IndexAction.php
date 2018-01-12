@@ -4,8 +4,8 @@
 |--------------------------------------------------------------------------
 | TODO:首页
 |--------------------------------------------------------------------------
-| @main      return view
-| @explain   return view
+| @main      TODO:主页
+| @explain   TODO:说明
 |--------------------------------------------------------------------------
 */
 
@@ -18,15 +18,16 @@ class IndexAction extends Action
 {
     public function main() : string
     {
-        $data['list'] = Member::query()->find([1, 2, 3]);
-        $data['title'] = '文档';
-        return parent::view('test', $data);
+        return parent::view('test', [
+            'title' => '文档',
+            'list'  => Member::query()->find([1, 2, 3])
+        ]);
     }
 
     public function explain() : string
     {
-        $data['detail'] = [];
-        $data['title'] = '说明';
-        return parent::view('explain', $data);
+        return parent::view('explain', [
+            'title' => '说明'
+        ]);
     }
 }
